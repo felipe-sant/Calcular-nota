@@ -1,14 +1,12 @@
 <div align="center">
 
-# 📚 Calcular Nota 📚
+# 🛠🗄️ Backend CRUD em MongoDB 🗄️
 
 </div>
 
-Desenvolva uma ferramenta que calcule a nota final que o aluno adquiriu ao longo do semestre. Sabendo que cada prova terá um peso, teremos ao longo do semestre o seguinte caso: Prova 1 – 10%, Prova 2 – 10%, Prova 3 – 30%, Atividades – 20% e API – 30%
+Backend de um projeto em CRUD, rode o projeto e entre no site.
 
-## 📝 Funcionalidades:
-
-  - Solicitação de Notas - A aplicação solicita ao usuário as notas para cada uma das provas (Prova 1, Prova 2, Prova 3), atividades e API. 
+| [Acesse a página da aplicação.](https://front-mongo-db-crud.vercel.app)
 
 ## ⚙️ Como rodar
 
