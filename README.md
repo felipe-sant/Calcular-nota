@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛠🗄️ Backend CRUD em MongoDB 🗄️
+# 🗄️ Backend CRUD em MongoDB 🗄️
 
 </div>
 
